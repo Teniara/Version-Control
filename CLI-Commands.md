@@ -14,8 +14,8 @@ This is the list of CLI Commands and git Commands
 * `cd ..` - Go up one folder level 
 * `mkdir -p a/b` - Create nested folders in one command 
 * `git init` - initialise git
-* `git status` - shows the state of the git
+* `git status` - shows the status of the repo
 * `git config` - confiure the git user
-* `git add filename.html` - to add new updates or changes to the file
+* `git add filename.html` - to stage 
 * `git commmit -m` - commit your changes with a message 
 
